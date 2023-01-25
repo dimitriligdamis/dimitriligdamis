@@ -7,6 +7,7 @@
 - ⚙️ I use daily: **HTML,CSS,Javascript,ReactJS**
 - 🌱 I’m currently learning **Next.Js and Typescript**
 - 📫 How to reach me: **ligdamisdimitri@gmail.com**
+- ⚡ All my deployed projects : **https://linktr.ee/dimitri.ligdamis**
 <br>
 
 <h3 align="left">Connect with me:</h3>
