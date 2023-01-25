@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dimitri</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
-<img align="right" alt="Coding gif" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+<img align="right" alt="Coding gif" height="300"  src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
